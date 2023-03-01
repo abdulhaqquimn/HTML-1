@@ -1,4 +1,4 @@
 # HTML-1
 Tech academy werk
 [link](https://abdulhaqquimn.github.io/HTML-1/)
-![table](./images/tabel.jpg)
+![tabel](./images/tabel.jpg)
