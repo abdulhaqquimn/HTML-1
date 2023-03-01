@@ -1,0 +1,70 @@
+table { 
+    border: 1px solid;
+    width: 700px;
+    height: 350px;
+}
+
+#appel {
+    border-left: dotted 7px green;
+    border-top: groove 1px;
+    border-bottom: groove 1px;
+    border-right: dotted 7px green;
+}
+
+#mango {
+    border-top: dotted 20px red;
+    border-bottom: dotted 20px red;
+}
+
+#one {
+    border: solid 1px;
+    text-align: center;
+    height: 60%;
+}
+
+#two {
+    border: solid 3px magenta;
+    font-size: 140px;
+    text-align: center;
+    border-radius: 40px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#two:hover {
+    background-color: white;
+    color: black;
+
+}
+
+
+
+
+#three {
+font-size: 140px;
+color: white;
+background-color: black;
+text-align: center;
+
+}
+
+#Amsterdam {
+    border-top: dashed 10px purple;
+    border-bottom: dashed 10px purple;
+    text-align: center;
+    height: 50px;
+}
+
+#Utrecht {
+    border-top: groove 1px;
+    border-right: dotted 7px green;
+    border-bottom: groove 1px;
+    border-left: dotted 7px green;
+    text-align: center;
+
+}
+
+#Groningen {
+    border: dotted 20px red;
+    text-align: center;
+}
